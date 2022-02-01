@@ -17,4 +17,4 @@ pasar del area de espera al commit: git commit -m "COMENTARIO"
 
 revisar historial: git log
 
-123
+actualizar el repositorio remoto: git push
